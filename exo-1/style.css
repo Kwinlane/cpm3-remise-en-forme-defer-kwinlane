@@ -9,15 +9,11 @@ img {
 
 
 .card {
-    width: 30%;
     justify-content: center;
+    padding: 25px;
     
 }
 
 .card:hover {
     transform: scale(1.1);
-}
-
-.first{
-    flex-wrap: wrap;
 }
